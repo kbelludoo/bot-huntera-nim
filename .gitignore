@@ -1,0 +1,13 @@
+# Secret accounts config
+accounts.json
+
+# Compiler artifacts
+nimcache/
+*.o
+*.a
+zigcc-linux-gnu.bat
+bot-huntera-linux-nim
+
+# Runtime data
+data/
+*.log
